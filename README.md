@@ -125,5 +125,50 @@ The following diagram illustrates the key actors and their interactions with the
 
 ![Use Case Diagram](alx-booking-uc.png)
 
+ # Acceptance Criteria
+
+## Importance of Acceptance Criteria in Requirement Analysis:
+
+Acceptance Criteria are critical in ensuring that the software meets the stakeholders' expectations and functions as required. They serve as specific conditions or requirements that a feature must meet for it to be considered complete and ready for release. Defining clear and measurable acceptance criteria provides the following benefits:
+
+- **Clarity and Understanding:** Acceptance criteria ensure that both the development team and stakeholders have a mutual understanding of the feature’s expected behavior.
+- **Testability:** They serve as a foundation for writing test cases, ensuring that each feature is thoroughly tested and validated before it’s considered finished.
+- **Quality Assurance:** Clear acceptance criteria help maintain high standards of quality by ensuring that all required functionality is present and performing as expected.
+- **Scope Control:** By defining what is required, acceptance criteria prevent scope creep and ensure that the development stays on track, without introducing unnecessary features.
+
+Incorporating acceptance criteria into the requirement analysis process enables precise measurement of whether the developed software meets its defined requirements and fulfills user needs.
+
+## Example of Acceptance Criteria for a Checkout Feature in the Booking Management System:
+
+Let’s define acceptance criteria for a **Checkout** feature in the context of a booking management system.
+
+**Feature:** Checkout Process for Booking Confirmation
+
+### Acceptance Criteria:
+
+1. **Availability of Properties:**
+   - The system must display available properties for the selected dates.
+   - If no properties are available for the selected dates, the user must be notified with an appropriate message (e.g., "No properties available for your selected dates").
+
+2. **User Login or Registration:**
+   - The user must be able to either log in to their account or register as a new user before proceeding to checkout.
+   - If the user is not logged in, they should be prompted to log in or create an account.
+
+3. **Selection of Payment Method:**
+   - The user should be able to select from available payment methods (e.g., credit card, PayPal, etc.).
+   - Payment options should be displayed clearly, and the user should receive a confirmation message once the payment method is selected.
+
+4. **Payment Processing:**
+   - The system must process the payment securely and notify the user of a successful payment or failure.
+   - If the payment is declined, the user should be presented with a clear error message and offered an opportunity to retry or select a different payment method.
+
+5. **Booking Confirmation:**
+   - After successful payment, the system should generate a booking confirmation with the booking details (e.g., property name, check-in/check-out dates, total price).
+   - The user should receive a booking confirmation email within 2 minutes of completing the payment.
+
+6. **Booking Cancellation:**
+   - The user must be able to cancel the booking from their account page within a specified time frame (e.g., 24 hours before check-in) and receive a full refund.
+   - If the cancellation occurs after the specified time frame, a cancellation fee should apply, and the user must be informed about the fee.
+
 
 
