@@ -47,32 +47,38 @@ Requirement Analysis plays a vital role in the success of any software developme
 
 ## Key Activities in Requirement Analysis
 
-The Requirement Analysis phase involves several key activities that help ensure the software meets stakeholder needs and expectations:
+Requirement Analysis involves several key activities that ensure the software being developed meets user needs and business objectives. Below are the five core activities:
 
 - **Requirement Gathering 🗂️**  
-  - Conduct interviews with stakeholders to understand their needs.  
-  - Use surveys, questionnaires, and observation techniques.  
-  - Review existing documentation and systems.  
-  - Organize workshops for deeper insights.
+  Collecting raw data about user needs through:
+  - Interviews with stakeholders
+  - Surveys or questionnaires
+  - Workshops and focus groups
+  - Observation of user workflows
+  - Reviewing existing documents and systems
 
 - **Requirement Elicitation ✍️**  
-  - Hold brainstorming sessions to generate ideas.  
-  - Use focus groups for targeted feedback.  
-  - Create early prototypes to clarify vague or abstract requirements.
+  Refining gathered data to uncover detailed and relevant requirements by:
+  - Brainstorming with stakeholders and team members
+  - Conducting focus group discussions
+  - Building and testing prototypes for early feedback
 
 - **Requirement Documentation 📚**  
-  - Develop a Requirement Specification Document that includes all functional and non-functional requirements.  
-  - Write user stories that describe features from the user's perspective.  
-  - Design use cases to visualize how users will interact with the system.
+  Structuring and recording requirements clearly using:
+  - Requirement Specification Documents (RSD)
+  - User stories that capture needs from the user’s perspective
+  - Use case diagrams to show interactions between users and the system
 
 - **Requirement Analysis and Modeling 📊**  
-  - Prioritize requirements based on business value and technical feasibility.  
-  - Perform feasibility analysis to assess time, cost, and technology constraints.  
-  - Create visual models such as data flow diagrams (DFDs) and entity-relationship diagrams (ERDs).
+  Making sense of the documented requirements by:
+  - Prioritizing based on business value and technical feasibility
+  - Performing feasibility analysis (technical, financial, legal)
+  - Creating visual models such as data flow diagrams and ER diagrams
 
 - **Requirement Validation ✅**  
-  - Review documented requirements with stakeholders to confirm accuracy and completeness.  
-  - Define acceptance criteria to ensure that requirements are testable.  
-  - Establish traceability to track requirements throughout the development cycle.
+  Ensuring all requirements are correct, complete, and approved by:
+  - Conducting stakeholder reviews and walkthroughs
+  - Defining clear acceptance criteria
+  - Using traceability matrices to track requirements through development
 
 
