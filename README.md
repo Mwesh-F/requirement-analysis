@@ -108,6 +108,22 @@ Non-functional requirements specify the criteria that judge the operation of a s
 - **Availability:** The system should have minimal downtime, ensuring users can access services at all times.
 - **Security:** User data should be protected through encryption and secure authentication mechanisms.
 - **Usability:** The application should have an intuitive interface, providing a seamless user experience.
-  
+
+## Use Case Diagrams
+
+Use Case Diagrams are visual representations that illustrate how users (actors) interact with a system to achieve specific goals (use cases). These diagrams help stakeholders understand the functional scope of the system at a glance.
+
+### Benefits of Use Case Diagrams
+- Provide a clear overview of system functionalities.
+- Identify all types of users interacting with the system.
+- Serve as a communication tool between technical and non-technical stakeholders.
+- Help define system boundaries and user goals.
+
+### Example: Hotel Booking System Use Case Diagram
+
+The following diagram illustrates the key actors and their interactions with the system:
+
+![Use Case Diagram](alx-booking-uc.png)
+
 
 
