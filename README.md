@@ -9,3 +9,20 @@ This repository provides resources and examples covering the entire requirement 
 - Defining clear acceptance criteria
 
 It serves as a guide for developers, analysts, and learners interested in mastering the foundation of great software planning.
+
+## What is Requirement Analysis?
+
+Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) that involves identifying, gathering, analyzing, and documenting the needs and expectations of stakeholders for a software product.
+
+It ensures that all stakeholders — including clients, users, and the development team — have a shared understanding of what the system should do and how it should perform. This step is crucial before any design, development, or testing activities begin.
+
+### Why is Requirement Analysis Important?
+
+- **Clarity and Understanding:** It eliminates ambiguity by clearly stating what the software must achieve.
+- **Scope Definition:** Defines what is included in the project and helps prevent scope creep.
+- **Foundation for Design and Development:** Acts as the blueprint for system architecture and coding.
+- **Accurate Estimations:** Supports better planning for timelines, costs, and resources.
+- **Quality Assurance:** Helps ensure that the final product meets user expectations, leading to higher satisfaction.
+
+By performing proper requirement analysis, development teams can avoid rework, reduce costs, improve efficiency, and deliver a product that aligns with stakeholder goals.
+
